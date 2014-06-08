@@ -9,22 +9,22 @@ wood	wood
 
 4x4 workbench:
 
-stone	stone	stone
+steel_ingot	steel_ingot	       steel_ingot
 
-wood	wood	wood
+stone	                3x3 workbench      stone
 
-wood	wood	wood
+stone	                stone	                        stone
 
 
 5x5 workbench:
 
-steel_ingot	steel_ingot	steel_ingot	steel_ingot
+diamond	                 diamond	                        diamond	                        diamond
 
-wood		wood		wood		wood
+mese_crystal		4x4 workbench		4x4 workbench		mese_crystal
 
-wood		wood		wood		wood
+bronze_ingot		4x4 workbench		4x4 workbench		bronze_ingot
 
-wood		wood		wood		wood
+gold_ingot	         obidian	                        obsidian		                gold_ingot
 
 
 mese:
